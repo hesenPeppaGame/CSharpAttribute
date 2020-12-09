@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AttributeLearning", "AttributeLearning.csproj", "{8AE7A826-5671-4ED3-B626-C82FC1B70067}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8AE7A826-5671-4ED3-B626-C82FC1B70067}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8AE7A826-5671-4ED3-B626-C82FC1B70067}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8AE7A826-5671-4ED3-B626-C82FC1B70067}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8AE7A826-5671-4ED3-B626-C82FC1B70067}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {40D77D90-8E4D-43EE-94A1-FC61B80CAE79}
+	EndGlobalSection
+EndGlobal
