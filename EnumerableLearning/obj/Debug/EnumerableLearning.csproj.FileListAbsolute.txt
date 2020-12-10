@@ -1,0 +1,6 @@
+C:\GitHub\CSharpAttribute\EnumerableLearning\bin\Debug\EnumerableLearning.exe.config
+C:\GitHub\CSharpAttribute\EnumerableLearning\bin\Debug\EnumerableLearning.exe
+C:\GitHub\CSharpAttribute\EnumerableLearning\bin\Debug\EnumerableLearning.pdb
+C:\GitHub\CSharpAttribute\EnumerableLearning\obj\Debug\EnumerableLearning.csprojAssemblyReference.cache
+C:\GitHub\CSharpAttribute\EnumerableLearning\obj\Debug\EnumerableLearning.exe
+C:\GitHub\CSharpAttribute\EnumerableLearning\obj\Debug\EnumerableLearning.pdb
