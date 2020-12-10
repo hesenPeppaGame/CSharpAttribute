@@ -1,0 +1,6 @@
+C:\GitHub\CSharpAttribute\BitwiseLearning\bin\Debug\BitwiseLearning.exe.config
+C:\GitHub\CSharpAttribute\BitwiseLearning\bin\Debug\BitwiseLearning.exe
+C:\GitHub\CSharpAttribute\BitwiseLearning\bin\Debug\BitwiseLearning.pdb
+C:\GitHub\CSharpAttribute\BitwiseLearning\obj\Debug\BitwiseLearning.csprojAssemblyReference.cache
+C:\GitHub\CSharpAttribute\BitwiseLearning\obj\Debug\BitwiseLearning.exe
+C:\GitHub\CSharpAttribute\BitwiseLearning\obj\Debug\BitwiseLearning.pdb

@@ -1,0 +1,5 @@
+C:\GitHub\CSharpAttribute\MyFirstDll\bin\Debug\MyFirstDll.dll
+C:\GitHub\CSharpAttribute\MyFirstDll\bin\Debug\MyFirstDll.pdb
+C:\GitHub\CSharpAttribute\MyFirstDll\obj\Debug\MyFirstDll.csprojAssemblyReference.cache
+C:\GitHub\CSharpAttribute\MyFirstDll\obj\Debug\MyFirstDll.dll
+C:\GitHub\CSharpAttribute\MyFirstDll\obj\Debug\MyFirstDll.pdb

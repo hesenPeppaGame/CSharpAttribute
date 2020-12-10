@@ -50,8 +50,8 @@ namespace AttributeLearning
                         }
                     }
                 }  
-            }
-           
+            } 
+
             Console.Read();
         }
     }
